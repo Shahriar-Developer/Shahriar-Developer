@@ -4,10 +4,6 @@
 ### Software Engineer | .NET Full Stack Developer
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shahriar-Developer&label=Profile%20Views&color=007EC6&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
   <a href="https://github.com/Shahriar-Developer">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007EC6&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;Building+Robust+Web+%26+Desktop+Apps;IT+Scholar+at+ISDB-BISEW+(Round-67);Expert+in+C%23,+MVC,+%26+SQL+Server" alt="Typing SVG" />
   </a>
